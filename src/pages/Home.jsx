@@ -46,7 +46,7 @@ const Home = () => {
   id="hero"
   className="relative flex flex-col-reverse md:flex-row items-center justify-between px-6 md:px-10 py-20 md:py-32 bg-cover bg-center"
 >
-  {/* Left Vertical Line (Orange) - Lowered Position */}
+  {/* Left Vertical Line*/}
   <div className="absolute left-4 md:left-10 top-[50%] transform -translate-y-1/2 h-24 md:h-56 w-1 md:w-2 bg-orange-500"></div>
 
   {/* Text Section */}
@@ -86,7 +86,7 @@ const Home = () => {
       alt="Main Visual"
       className="w-4/5 md:w-3/4 mx-auto md:ml-auto"
     />
-    {/* Right Vertical Line (Blue) */}
+    {/* Right Vertical Line */}
     <div className="absolute right-4 md:right-10 top-3/4 transform -translate-y-1/2 h-24 md:h-56 w-1 md:w-2 bg-blue-500"></div>
   </div>
 </section>
