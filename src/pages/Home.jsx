@@ -204,14 +204,14 @@ const Home = () => {
     {/* Text & Icons */}
     <div>
       <h3 className="text-lg md:text-xl font-semibold text-black mb-2">Follow FinancAi</h3>
-      <div className="flex space-x-3 text-orange-500 text-2xl mb-4">
+      <div className="flex space-x-3 text-blue-500 text-2xl mb-4">
         <BsInstagram />
         <BsTwitter />
         <BsFacebook />
         <BsWhatsapp />
       </div>
       <p className="text-black mb-2">Or talk to us directly</p>
-      <div className="flex items-center text-orange-500 text-lg">
+      <div className="flex items-center text-blue-500 text-lg">
         <BsTelephoneFill className="mr-2" />
         <span>+123 456 7890</span>
       </div>
