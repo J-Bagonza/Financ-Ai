@@ -128,7 +128,7 @@ const Home = () => {
 </section>
 
       {/* Testimonials Section */}
-      <section className="py-12 px-6 md:py-16 md:px-10">
+      <section id="testimonials" className="py-12 px-6 md:py-16 md:px-10">
   {/* Header with Title and Navigation */}
   <div className="flex flex-col md:flex-row justify-between items-center mb-6 space-y-4 md:space-y-0">
     <h2 
